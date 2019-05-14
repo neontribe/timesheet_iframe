@@ -1,0 +1,17 @@
+body {
+  font-family: sans;
+  font-size: 75%;
+}
+
+.timesheet_entry {
+	clear: both;
+	margin-bottom: 8px;
+	background: #efefef;
+	padding: 3px 8px 3px 8px;
+  border-radius: 5px;
+}
+
+.timesheet_entry a {
+  color: black;
+}
+	

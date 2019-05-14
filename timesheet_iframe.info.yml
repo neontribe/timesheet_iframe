@@ -1,0 +1,12 @@
+name: timesheet_iframe
+type: theme
+description: 'Renders only content region'
+package: timesheet
+core: 8.x
+libraries:
+  - timesheet_iframe/global-styling
+ 
+base theme: false
+
+regions:
+  content: Content
